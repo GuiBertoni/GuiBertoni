@@ -2,7 +2,7 @@
 
 **Guibertoni/Guibertoni**
 
-- Estou estundando no [Alura](https://www.alura.com.br)
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem Javascript, Typescript e React
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
